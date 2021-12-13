@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Blockchain
 - 💬 Ask me about Development
 - 📫 How to reach me: tushargoyal414@gmail.com
-- ⚡ Fun fact: Unlike Known, software developers are mainly self-taught programmers. Despite having earning a bachelo's degree in software engineering.
+- ⚡ Fun fact: Unlike Known, software developers are mainly self-taught programmers. Despite having earning a bachelor's degree in software engineering.
 -->
