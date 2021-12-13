@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Tusharg1999/Tusharg1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/tushar414"><img src="https://api.daily.dev/devcards/396ab39fdb9e4b2891304b495753129e.png?r=hix" width="400" alt="Tushar Goyal's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
